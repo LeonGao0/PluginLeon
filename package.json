@@ -1,0 +1,11 @@
+{
+  "name": "leonplugin",
+  "version": "1.0.0",
+  "description": "fLeon",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon.G",
+  "license": "ISC"
+}
