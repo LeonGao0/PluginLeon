@@ -9,5 +9,5 @@ module.exports = {
         'hello' () {
             Editor.log('Leon hello!');
         }
-    }
-}
+    },
+};

@@ -6,6 +6,15 @@
   "author": "Leon.G",
   "license": "ISC",
   "main-menu": {
-    "Plugin/Leon/Hello": "leon:hello"
+    "Plugin/Leon/Hello": {
+      "message": "leon:hello"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "leon",
+    "width": 400,
+    "height": 300
   }
 }
