@@ -2,7 +2,11 @@
 
 module.exports = {
     load () {
-        Editor.log('Leon Plugin loaded');        
+        Editor.log('loaded Leon');        
+    },
+
+    unload() {
+        Editor.log('unloaded Leon');
     },
 
     messages: {
