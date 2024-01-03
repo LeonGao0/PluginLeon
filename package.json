@@ -1,11 +1,11 @@
 {
-  "name": "leonplugin",
+  "name": "leon",
   "version": "1.0.0",
   "description": "fLeon",
   "main": "main.js",
   "author": "Leon.G",
   "license": "ISC",
   "main-menu": {
-    "Plugin/Leon/Hello": "leonplugin:hello"
+    "Plugin/Leon/Hello": "leon:hello"
   }
 }
